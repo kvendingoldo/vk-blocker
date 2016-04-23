@@ -16,7 +16,7 @@
   "options_page": "options.html",
 
   "background": {
-    "scripts": ["background.js", "event.js"],
+    "scripts": ["statistic.js", "event.js"],
     "persistent": false
   },
   
